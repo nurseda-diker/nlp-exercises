@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP) Exercises
+## Natural Language Processing (NLP) Exercises
 This repo contains some nlp subjects and practises. <br> 
 #### 1- [Introduction to NLP and Basic Concepts](https://github.com/nurseda-diker/nlp-exercises/blob/main/nlp_intro.ipynb) 
 * Tokenization
