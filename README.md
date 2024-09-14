@@ -16,7 +16,7 @@ This repo contains some nlp subjects and practises. <br>
 - Word2Vec
 
 #### 5- [Language Models](https://github.com/nurseda-diker/nlp-exercises/blob/main/language_models.ipynb)
-- Text-Generation
+- Text Generation
 - Sentiment Analysis
-- Text-Summarization
+- Text Summarization
 - Sentence Similarity
